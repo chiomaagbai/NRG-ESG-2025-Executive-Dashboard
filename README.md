@@ -1,4 +1,9 @@
 # NRG ESG Executive Dashboard
+
+An executive-level ESG analytics dashboard built in Power BI using publicly available NRG Energy sustainability data to support leadership decision making around safety, environmental performance, and operational efficiency.
+
+🔗 **Live Dashboard:** [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWU5ZDU1MmItYTUwMy00YWYzLTg4MDktYWMyOTgyODcxOGVmIiwidCI6IjQzYTQ3YmQxLWI1MmQtNDZkMy05NmI3LTQwOTk0ZTI5YjAyNyJ9)
+
 ## Overview
 
 This project demonstrates the design and development of an executive-level ESG dashboard using publicly available sustainability data from NRG Energy's 2025 ESG reporting.
