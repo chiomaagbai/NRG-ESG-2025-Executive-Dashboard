@@ -63,24 +63,29 @@ Explore the fully interactive Power BI dashboard here:
 
 ## Tools Used
 
-- Power BI Desktop
-- DAX
-- Power Query
-- Microsoft Excel
-- GitHub
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-00B294)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-107C41?logo=microsoftexcel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)
 
-  ## Skills Demonstrated
+## Skills Demonstrated
 
+📊 **Analytics**
 - Data Modeling
 - DAX Measure Development
+- Trend Analysis
+
+📈 **Visualization**
 - KPI Design
 - Executive Dashboard Development
-- Data Storytelling
-- Business Intelligence
-- ESG Analytics
 - Data Visualization
-- Trend Analysis
+
+💼 **Business Intelligence**
+- Data Storytelling
+- ESG Analytics
 - Decision Support Analytics
+
 
 ## Example Insights
 
