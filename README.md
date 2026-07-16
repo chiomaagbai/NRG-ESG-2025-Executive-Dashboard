@@ -1,9 +1,27 @@
-# Interview Project for Chioma Agbai 
+# NRG Analytics Portfolio 
 
-🔗 **Live Dashboard:** [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODUwNDUzYTctZDNiMS00Njg2LWI0NzMtMmFlNzYwNGNiZDVmIiwidCI6IjQzYTQ3YmQxLWI1MmQtNDZkMy05NmI3LTQwOTk0ZTI5YjAyNyJ9)
+This repository contains two Power BI dashboards developed to demonstrate executive reporting, operational analytics, and safety performance insights:
+
+1. Safety Performance Dashboard (Interview Project)
+
+-Incident trends
+-Root cause analysis
+-OSHA metrics
+-Executive recommendations
+-Automation opportunities
+
+1. Executive ESG Dashboard
+
+-Sustainability metrics
+-Emissions
+-Executive KPI reporting
+
+## Interview Project for Chioma Agbai 
+
+🔗 **Live Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODUwNDUzYTctZDNiMS00Njg2LWI0NzMtMmFlNzYwNGNiZDVmIiwidCI6IjQzYTQ3YmQxLWI1MmQtNDZkMy05NmI3LTQwOTk0ZTI5YjAyNyJ9)
 
 
-# NRG ESG Executive Dashboard
+## NRG ESG Executive Dashboard
 
 An executive-level ESG analytics dashboard built in Power BI using publicly available NRG Energy sustainability data to support leadership decision making around safety, environmental performance, and operational efficiency.
 
